@@ -37,4 +37,4 @@ https://git-scm.com/download
 * `git clone` // clonar um projeto / repositório
 * `git pull` // puxa do repositório remoto
 
-* git config credential.helper store //configura user e pass
+* `git config credential.helper store` //configura user e pass
